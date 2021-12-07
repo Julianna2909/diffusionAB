@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b166bf46a0fa4640bccc82b74abb4ecc, type: 3}
+  m_Name: CirclesSettings
+  m_EditorClassIdentifier: 
+  InitMap: {fileID: 2800000, guid: 94ceb9f0dbb71ef4c8c492c38325f1db, type: 3}
+  DisplayMode: 4
+  feedRate: 0.0547
+  removeRate: 0.0542
+  diffuseRateA: 1
+  diffuseRateB: 0.173
+  diffuseRadius: 2
+  colorA: {r: 0.5801887, g: 1, b: 0.77371746, a: 1}
+  colorB: {r: 1, g: 0.99812907, b: 0.3726415, a: 1}
