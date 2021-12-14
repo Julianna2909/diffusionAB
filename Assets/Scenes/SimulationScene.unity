@@ -454,7 +454,7 @@ MonoBehaviour:
   simulationSpeed: 1
   restartButton: {fileID: 1520917535}
   rawImage: {fileID: 1219443186}
-  settings: {fileID: 11400000, guid: 459f5df875bbeba4a94c8b39e23627da, type: 2}
+  settings: {fileID: 11400000, guid: 510cc98b9e110664b8cbea88d40ee3e5, type: 2}
   compute: {fileID: 7200000, guid: 4a2774b61d6cda54c89409240b4ab91a, type: 3}
   screenSize: {x: 1024, y: 768}
 --- !u!114 &1481270723
